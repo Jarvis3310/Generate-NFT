@@ -1,0 +1,42 @@
+2022-05-05 17:26:58,362 - [line:134] - INFO: 檢查配置...
+2022-05-05 17:26:58,369 - [line:139] - INFO: ./config.yaml
+2022-05-05 17:26:58,370 - [line:140] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': False, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda#', 'CONFIG_JSON_URL': 'https://aiv.com.tw', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.'}
+2022-05-05 17:26:58,371 - [line:141] - INFO: 檢查素材...
+2022-05-05 17:26:58,372 - [line:144] - INFO: 您可以創建總共184320個不同的NFT
+2022-05-05 17:26:58,372 - [line:145] - INFO: 您希望創建多少個NFT？輸入一個大於0的數字:
+2022-05-05 17:27:07,470 - [line:150] - INFO: 建立5個NFT
+2022-05-05 17:27:07,471 - [line:151] - INFO: 您想把該NFT項目命名為:
+2022-05-05 17:27:18,077 - [line:153] - INFO: 儲存NFT文件夾名:厲害吧
+2022-05-05 17:27:18,079 - [line:154] - INFO: 開始生成...
+2022-05-05 17:27:19,883 - [line:116] - INFO: 生成第 5 張圖片, 5張不同
+2022-05-05 17:27:19,885 - [line:156] - INFO: 保存metadata...
+2022-05-05 17:27:19,887 - [line:158] - INFO: 生成成功!
+2022-05-05 17:27:19,887 - [line:159] - INFO: --------------------------------------------------------------------------------------------
+2022-05-05 17:28:04,294 - [line:134] - INFO: 檢查配置...
+2022-05-05 17:28:04,299 - [line:139] - INFO: ./config.yaml
+2022-05-05 17:28:04,299 - [line:140] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': False, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda#', 'CONFIG_JSON_URL': 'https://aiv.com.tw', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.'}
+2022-05-05 17:28:04,300 - [line:141] - INFO: 檢查素材...
+2022-05-05 17:28:04,301 - [line:144] - INFO: 您可以創建總共184320個不同的NFT
+2022-05-05 17:28:04,301 - [line:145] - INFO: 您希望創建多少個NFT？輸入一個大於0的數字:
+2022-05-05 17:28:14,990 - [line:150] - INFO: 建立20個NFT
+2022-05-05 17:28:14,991 - [line:151] - INFO: 您想把該NFT項目命名為:
+2022-05-05 17:28:22,790 - [line:153] - INFO: 儲存NFT文件夾名:厲害吧
+2022-05-05 17:28:22,791 - [line:154] - INFO: 開始生成...
+2022-05-05 17:28:27,366 - [line:116] - INFO: 生成第 20 張圖片, 20張不同
+2022-05-05 17:28:27,367 - [line:156] - INFO: 保存metadata...
+2022-05-05 17:28:27,370 - [line:158] - INFO: 生成成功!
+2022-05-05 17:28:27,370 - [line:159] - INFO: --------------------------------------------------------------------------------------------
+2022-05-05 21:46:18,266 - [line:134] - INFO: 檢查配置...
+2022-05-05 21:46:18,284 - [line:139] - INFO: ./config.yaml
+2022-05-05 21:46:18,285 - [line:140] - INFO: {'CONFIG': [{'id': 1, 'name': 'background', 'directory': 'Background', 'required': True, 'rarity_weights': 'random'}, {'id': 2, 'name': 'Clothes', 'directory': 'Clothes', 'required': True, 'rarity_weights': 'None'}, {'id': 3, 'name': 'Face', 'directory': 'Face', 'required': True, 'rarity_weights': 'None'}, {'id': 4, 'name': 'Eye', 'directory': 'Eye', 'required': True, 'rarity_weights': 'None'}, {'id': 5, 'name': 'Tattoo', 'directory': 'Tattoo', 'required': False, 'rarity_weights': 'None'}, {'id': 6, 'name': 'JEWELRY1', 'directory': 'JEWELRY1', 'required': False, 'rarity_weights': 'None'}, {'id': 7, 'name': 'JEWELRY2', 'directory': 'JEWELRY2', 'required': False, 'rarity_weights': 'None'}, {'id': 8, 'name': 'JEWELRY3', 'directory': 'JEWELRY3', 'required': False, 'rarity_weights': 'None'}], 'drop_dup': False, 'CONFIG_JSON_NAME': 'Greek-Mythical-Panda#', 'CONFIG_JSON_URL': 'https://aiv.com.tw', 'CONFIG_JSON_DESCRIPTION': 'The Greek Mythical Panda is a collection of 100 NFT digital identities with accessory backgrounds generated entirely from random seeds. Let you experience random art.'}
+2022-05-05 21:46:18,285 - [line:141] - INFO: 檢查素材...
+2022-05-05 21:46:18,287 - [line:144] - INFO: 您可以創建總共184320個不同的NFT
+2022-05-05 21:46:18,287 - [line:145] - INFO: 您希望創建多少個NFT？輸入一個大於0的數字:
+2022-05-05 21:46:21,530 - [line:150] - INFO: 建立20個NFT
+2022-05-05 21:46:21,531 - [line:151] - INFO: 您想把該NFT項目命名為:
+2022-05-05 21:46:24,369 - [line:153] - INFO: 儲存NFT文件夾名:8888
+2022-05-05 21:46:24,370 - [line:154] - INFO: 開始生成...
+2022-05-05 21:46:29,075 - [line:116] - INFO: 生成第 20 張圖片, 20張不同
+2022-05-05 21:46:29,075 - [line:156] - INFO: 保存metadata...
+2022-05-05 21:46:29,078 - [line:158] - INFO: 生成成功!
+2022-05-05 21:46:29,078 - [line:159] - INFO: --------------------------------------------------------------------------------------------
